@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reticulecanyon.com/sitemap.xml

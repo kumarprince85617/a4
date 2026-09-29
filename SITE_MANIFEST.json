@@ -1,0 +1,26 @@
+{
+  "domain": "reticulecanyon.com",
+  "brand": "Reticule Canyon Atelier",
+  "niche": "luxury bag",
+  "institutional_contact": {
+    "address": "450 Lexington Avenue, Suite 1400, New York, NY 10017, United States",
+    "phone": "+1-888-801-1428",
+    "email": "concierge@reticulecanyon.com"
+  },
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "faq.html",
+    "contact.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "assets_count": 20,
+  "php_files_count": 0,
+  "blog_included": false,
+  "google_tag": "G-0LY0HY7L01",
+  "qa_verified": true
+}
